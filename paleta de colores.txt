@@ -1,0 +1,5 @@
+girs #021730
+rojo #f9cd16
+grisMuyClaro #58606d
+rosa viejo #b3b3b3
+negro #000000
